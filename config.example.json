@@ -1,0 +1,40 @@
+{
+  "api": {
+    "id": "YOUR_API_ID_HERE",
+    "hash": "YOUR_API_HASH_HERE"
+  },
+  "pairs": {
+    "btc": 0.5,
+    "eth": 0.4,
+    "sol": 0.02,
+    "sui": 0.1,
+    "doge": 0.03,
+    "kpepe": 0.02,
+    "ena": 0.02,
+    "ftm": 0.02,
+    "xrp": 0.02,
+    "aave": 0.02,
+    "avax": 0.01,
+    "apt": 0.01,
+    "link": 0.01,
+    "near": 0.01
+  },
+  "proxies": [
+    {
+      "proxy_type": "socks5",
+      "addr": "YOUR_PROXY_ADDRESS",
+      "port": 12345,
+      "username": "YOUR_PROXY_USERNAME",
+      "password": "YOUR_PROXY_PASSWORD",
+      "rdns": true
+    },
+    {
+      "proxy_type": "socks5",
+      "addr": "YOUR_PROXY_ADDRESS",
+      "port": 12345,
+      "username": "YOUR_PROXY_USERNAME",
+      "password": "YOUR_PROXY_PASSWORD",
+      "rdns": true
+    }
+  ]
+}

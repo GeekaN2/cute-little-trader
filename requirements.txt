@@ -1,0 +1,5 @@
+telethon
+python-socks
+colorama
+async_timeout
+aiohttp
